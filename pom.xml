@@ -87,9 +87,9 @@
 
 -<scm>
 
-<connection>scm:https://github.com/radseela/Git-Moven-Pronect.git/</connection>
+<connection>scm:https://github.com/aparnadevu2/maven_nexus.git/</connection>
 
-<developerConnection>scm:https://github.com/radseela/Git-Moven-Pronect.git/</developerConnection>
+<developerConnection>scm:https://github.com/aparnadevu2/maven_nexus.git/</developerConnection>
 
 </scm>
 
