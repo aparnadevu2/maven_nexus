@@ -1,0 +1,15 @@
+<settings>
+<servers>
+   <server>
+           <id>ARTECH</d>
+		   <username>admin</a=username>
+		   <password>admin123</password>
+	</server>
+
+     <server>
+	         <id>DEVOPS</id>
+			 <username>admin</username>
+			 <password>admin123</password>
+	</server>
+</servers>
+<settings>	
